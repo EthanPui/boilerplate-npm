@@ -2,8 +2,13 @@
 	"author": "Ethan Pui",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+  "keywords": [ "freecodecamp", "awesome"],
+  "version": "1.2.0",
+  "license": "MIT",
+  
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
